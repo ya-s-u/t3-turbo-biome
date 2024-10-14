@@ -22,12 +22,6 @@
     "enabled": true,
     "indentStyle": "space",
     "indentWidth": 2,
-    "ignore": [
-      "node_modules/*",
-      "*.config.*",
-      "*.json",
-      "tsconfig.json",
-      ".turbo"
-    ]
+    "ignore": ["node_modules/*"]
   }
 }
